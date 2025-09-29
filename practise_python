@@ -1,0 +1,16 @@
+#basic ptyhon
+print("Hello world")
+
+#using input funtion 
+input("What is your name ?")
+print("Hello Reethika')
+
+#using input funtion in differnt ways
+name =input("What are you doing ?")
+print("Hello ", + name)
+or 
+name= input("What are you doing ?")
+print("Hello ", name)
+#if you want to include show something inside "" using ""
+name=input("What is your name?")
+print("Hello ,\"Reethika\" ")
